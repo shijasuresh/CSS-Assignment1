@@ -1,0 +1,198 @@
+.card1 {
+    background-color: #1DE592;
+    border: 0px solid none;
+    width: 500px;
+    margin: 50px auto;
+    padding: 100px 50px;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+.card1-h1 {
+    width: 100px;
+    padding-bottom: 10px;
+}
+
+.card1-p {
+    font-size: medium;
+    font-weight: 500;
+    padding-bottom: 20px;
+}
+
+.card1-btn {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    border-radius: 25px;
+    padding: 14px 30px;
+}
+
+
+.card2 {
+    border: 2px solid lightgray;
+    width: 600px;
+    margin: 50px auto;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+.card2-p-header {
+    font-size: x-large;
+    margin: 20px 50px;
+    font-weight: 500;
+}
+
+.card2-p-body {
+    color: gray;
+    font-size: larger;
+    margin: 20px 50px;
+}
+
+.card2-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 20px 100px;
+
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+  
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+hr {
+    color: lightgray;
+}
+
+.card2-a {
+    color: #2C7CEA;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+
+.card3 {
+    border: 2px solid lightgray;
+    width: 420px;
+    margin: 50px auto;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+.card3-img1 {
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card3-img2 {
+    width:30px;
+    height:30px;
+    margin: 0px 10px 0px 30px;
+}
+
+.card3-p-header {
+    font-size: x-large;
+    margin: 20px 30px;
+    font-weight: 500;
+}
+
+.card3-p-body {
+    color: gray;
+    font-size: larger;
+    margin: 20px 30px;
+}
+
+.card3-btn {
+    background-color: white;
+    color: #2C7CEA;
+    font-weight: bold;
+    font-size: large;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin: 10px 30px;
+    padding: 14px 30px;
+}
+
+.card3-p-img {
+    color: gray;
+    font-size: medium;
+    margin: 20px 0px;
+}
+
+.card4 {
+    border: none;
+    width: 420px;
+    margin: 50px auto;
+    font-family: sans-serif;
+    border-radius: 10px;
+}
+
+.card4-p1 {
+    font-size: medium;
+    font-weight: 600;
+    margin: 10px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.card4-p2 {
+    font-size: medium;
+    font-weight: 600;
+    margin: 10px 10px;
+}
+
+.card4-input {
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid lightgray;
+}
+
+.card4-btn {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    border: none;
+    border-radius: 25px;
+    padding: 14px 30px;
+    margin: 10px 95px;
+}
+
+.card4-div {
+    border: none;
+    color: lightgray;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card4-div-p {
+    margin-top: -10px;
+}
+
+.card4-div-a {
+    color: gray;
+}
+
+.card4-footer {
+    border: none;
+    color: lightgray;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card4-footer-a {
+    color: lightgray;
+}
